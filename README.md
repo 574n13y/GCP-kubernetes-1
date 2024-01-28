@@ -6,6 +6,11 @@
     ```
     PROJECT_ID=”<your-project-id>"
     ```
+   ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/95e824c2-c84b-42f4-b8a1-f65dda99ddc5)
+   
+   ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/90bab7c5-b094-4de5-b21b-7c666cc8b421)
+
+
   - Enable the GKE API & Enable the Cloud operations API
     ```
      gcloud services enable apigateway.googleapis.com
