@@ -6,6 +6,8 @@
     ```
     PROJECT_ID=”<your-project-id>"
     ```
+    ![Alt text](image.png)
+    
   - Enable the GKE API & Enable the Cloud operations API
     ```
      gcloud services enable apigateway.googleapis.com
@@ -45,3 +47,6 @@
     ```
      kubectl get service frontend-external | awk '{print $4}'
     ```
+  - Alternatively, you can also browse to Kubernetes Engine service in GCP portal -> services and ingress and look for the endpoint of the service named “frontend-external”.
+  - The application will open once you click on the link:
+  - we deployed the cluster from cloud shell, however, the whole process, including the cluster creation and application deployment, can be automated using DevOps tools.
