@@ -59,3 +59,17 @@
     ```
      kubectl get service frontend-external | awk '{print $4}'
     ```
+     ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/c274bfca-0286-414d-a6d6-63ff31c746c6)
+    
+  - Alternatively, you can also browse to Kubernetes Engine service in GCP portal -> services and ingress and look for the endpoint of the service named “frontend-external”.
+  - The application will open once you click on the link:
+     ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/6e439604-146b-4b85-8832-193b1f6f062b)
+    
+     ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/6ad7e8c8-1704-42a8-98d2-4c6240a06342)
+    
+     ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/356bbc13-606b-4b5e-9737-3078e0e9c274)
+
+     ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/637cd947-96c9-42ca-8624-06bc27a8a14b)
+
+
+
