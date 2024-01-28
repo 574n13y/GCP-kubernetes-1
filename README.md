@@ -6,8 +6,7 @@
     ```
     PROJECT_ID=”<your-project-id>"
     ```
-    ![Alt text](image.png)
-    
+
   - Enable the GKE API & Enable the Cloud operations API
     ```
      gcloud services enable apigateway.googleapis.com
