@@ -76,8 +76,7 @@
 
      ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/637cd947-96c9-42ca-8624-06bc27a8a14b)
 
-     ![Screenshot 2024-01-28 173559](https://github.com/574n13y/GCP-kubernetes-1/assets/35293085/4bec4580-2117-479d-bc90-b903d35d0561)
-
+    ![Screenshot 2024-01-28 173559](https://github.com/574n13y/GCP-kubernetes-1/assets/35293085/4bec4580-2117-479d-bc90-b903d35d0561)
 
      ![image](https://github.com/574n13y/GCP-kubernetes/assets/35293085/53c7d7ae-13bf-4a34-aa4e-ab7fc9c60207)
 
